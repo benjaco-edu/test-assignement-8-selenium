@@ -2,7 +2,7 @@
 
 https://github.com/datsoftlyngby/soft2019spring-test/blob/master/Slides/08%20Functional%20testing.pdf
 
-The webapp runs as a dotnet webapp (from my team member jacob) in a container with a mongo db database
+The webapp runs as a [dotnet webapp (from my team member jacob)](https://github.com/cph-js284/Assignment8Test) in a container with a mongo db database
 
 The tests are written in nodejs with selenium as the runner, find it at test/testOrders.js
 
